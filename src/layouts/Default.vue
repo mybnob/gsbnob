@@ -17,7 +17,8 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span>
+      <span class="footer__links"><a href="//www.blognubi.com"> BlogNubi </a></span>
+      <span class="footer__copyright">All Rights Reserved.</span>
     </footer>
 
   </div>
